@@ -35,11 +35,17 @@
 
 <p>We have dozens of Flash based activities for kids, for learning Spanish and English Language Arts, as well as for artistic creative play time. Best of all, it's all free. Enjoy!</p>
 
-{% swfobject games/dress_zebra.swf %}
 
-Flash Player required to see this game!
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="780" height="420">
+        <param name="movie" value="games/dress_zebra.swf" />
+        <!--[if !IE]>-->
+        <object type="application/x-shockwave-flash" data="myContent.swf" width="780" height="420">
+        <!--<![endif]-->
+          <p>Alternative content</p>
+        <!--[if !IE]>-->
+        </object>
+        <!--<![endif]-->
 
-{% endswfobject %}
         </section>
 
         <footer>
