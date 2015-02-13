@@ -2,17 +2,18 @@
   {% for post in site.posts limit:site.recent_items %}
     {% capture first_tag %}{{ post.tags | first }}{% endcapture %}
     {% if first_tag != 'feature' and post.category != 'app' %}
-      {% if post.category %}<a class="ui ribbon small label"  href="/category/#{{ post.category }}">{{ post.category }}</a>{% endif %}
+
       <a class="item" href="{{ post.url }}">
+	  <div class="right floated"><small>{{ post.date | date: "%b %-d, %Y" }}</small></div>
         <div class="recent-posts-title">{{ post.title }}</div>
         {% if post.image %}
         <div class="thumb-img">
           <img class="ui rounded image" src="{{ post.image }}" alt="{{ post.title }}">
         </div>
         {% else %}
-        <small> {{post.excerpt}} </small>
+        <div class="global slim-header-light"> {{post.excerpt}} </div>
         {% endif %}
-        <div class="right floated"><small>{{ post.date | date: "%b %-d, %Y" }}</small></div>
+        <div class="right floated">Read more...</div>
       </a>
     {% endif %}
   {% endfor %}

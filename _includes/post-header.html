@@ -8,12 +8,13 @@
         <!-- information -->
         <div class="ui information">
           <a href="{{ page.url }}">
-          <h1 class="ui header">
+          <h1 class="ui header 20above">
             {{ page.title }}
           </h1>
           </a>
-          <h2>{{ page.excerpt | strip_html }}</h2>
+        <!--  <h2>{{ page.excerpt | strip_html }}</h2>
           <p>
+		-->
             <i class="icon calendar"></i> {{ page.date | date: "%b %-d, %Y" }}
             {% if page.author %} • <i class="edit icon"></i> {{ page.author }}{% endif %}
             

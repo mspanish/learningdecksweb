@@ -1,0 +1,20 @@
+{
+  "name": "learningdedcks",
+  "main": "app.js",
+  "engines": {
+    "node": "0.10.18"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {
+    "grunt-autoprefixer": "^1.0.1",
+    "grunt-closure-compiler": "0.0.21",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-uncss": "~0.3.6",
+    "jit-grunt": "^0.9.0",
+    "winston": "~0.7.3"
+  }
+}
