@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<sentences > 
+		<sentence pronoun="i" pronounsecond="he" verb="ring" verbsecond="rings" noun="bell" nounplural="bells" adjective="loud" extraword="a" level="1" word1="a" word2="cat" word3="has" word4="fat" word5="hats"/>
+	<sentence pronoun="we" pronounsecond="she" verb="have" verbsecond="has" noun="toy" nounplural="toys" adjective="funky" extraword="the" level="1" word1="the" word2="hat" word3="grabs" word4="sad" word5="cats"/>
+	<sentence pronoun="they" pronounsecond="it" verb="draw" verbsecond="draws" noun="bug" nounplural="bugs" adjective="cute" extraword="my" level="1" word1="my" word2="car" word3="pets" word4="fast" word5="cakes"/>
+	<sentence pronoun="i" pronounsecond="he" verb="want" verbsecond="wants" noun="taco" nounplural="tacos" adjective="yummy" extraword="her" level="1" word1="her" word2="bell" word3="gets" word4="red" word5="cars"/>
+	<sentence pronoun="we" pronounsecond="she" verb="grab" verbsecond="grabs" noun="mask" nounplural="masks" adjective="red" extraword="his" level="1" word1="his" word2="nut" word3="hits" word4="wet" word5="bells"/>
+	<sentence pronoun="they" pronounsecond="it" verb="read" verbsecond="reads" noun="book" nounplural="books" adjective="long" extraword="our" level="1" word1="i" word2="kid" word3="digs" word4="big" word5="nuts"/>
+	<sentence pronoun="i" pronounsecond="he" verb="hear" verbsecond="hears" noun="song" nounplural="songs" adjective="crazy" extraword="your" level="1" word1="we" word2="dip" word3="locks" word4="silly" word5="kids"/>
+	<sentence pronoun="we" pronounsecond="she" verb="need" verbsecond="needs" noun="sun" nounplural="suns" adjective="warm" extraword="one" level="1" word1="" word2="mom" word3="folds" word4="hot" word5="dips"/>
+	<sentence pronoun="they" pronounsecond="it" verb="eat" verbsecond="eats" noun="dip" nounplural="dips" adjective="fresh" extraword="no" level="1" word1="" word2="pot" word3="hugs" word4="soft" word5="moms"/>
+	<sentence pronoun="i" pronounsecond="he" verb="see" verbsecond="sees" noun="star" nounplural="stars" adjective="huge" extraword="this" level="1" word1="" word2="bug" word3="runs" word4="fun" word5="pots"/>
+	<sentence pronoun="we" pronounsecond="she" verb="pet" verbsecond="pets" noun="frog" nounplural="frogs" adjective="happy" extraword="our" level="2" word1="our" word2="ball" word3="wants" word4="fancy" word5="bugs"/>
+	<sentence pronoun="they" pronounsecond="it" verb="feel" verbsecond="feels" noun="worm" nounplural="worms" adjective="wet" extraword="your" level="2" word1="your" word2="wall" word3="calls" word4="wacky" word5="balls"/>
+	<sentence pronoun="i" pronounsecond="he" verb="hit" verbsecond="hits" noun="ball" nounplural="balls" adjective="slow" extraword="one" level="2" word1="one" word2="bee" word3="talks" word4="happy" word5="walls"/>
+	<sentence pronoun="we" pronounsecond="she" verb="cook" verbsecond="cooks" noun="cake" nounplural="cakes" adjective="big" extraword="no" level="2" word1="no" word2="tree" word3="helps" word4="fresh" word5="bees"/>
+	<sentence pronoun="they" pronounsecond="it" verb="get" verbsecond="gets" noun="card" nounplural="cards" adjective="funny" extraword="a" level="2" word1="he" word2="lip" word3="feels" word4="new" word5="trees"/>
+	<sentence pronoun="i" pronounsecond="he" verb="buy" verbsecond="buys" noun="nut" nounplural="nuts" adjective="real" extraword="the" level="2" word1="she" word2="pig" word3="sees" word4="pink" word5="lips"/>
+	<sentence pronoun="we" pronounsecond="she" verb="fear" verbsecond="fears" noun="cat" nounplural="cats" adjective="fat" extraword="my" level="2" word2="dog" word3="sips" word4="jolly" word5="pigs"/>
+	<sentence pronoun="they" pronounsecond="it" verb="use" verbsecond="uses" noun="fork" nounplural="forks" adjective="small" extraword="her" level="2" word2="cow" word3="skips" word4="old" word5="dogs"/>
+	<sentence pronoun="i" pronounsecond="he" verb="make" verbsecond="makes" noun="bun" nounplural="buns" adjective="sweet" extraword="his" level="2" word1="" word2="sun" word3="cuts" word4="cold" word5="cows"/>
+	<sentence pronoun="we" pronounsecond="she" verb="play" verbsecond="plays" noun="game" nounplural="games" adjective="fun" extraword="this" level="2" word1="" word2="bun" word3="jumps" word4="funny" word5="suns"/>
+	<sentence pronoun="they" pronounsecond="it" verb="help" verbsecond="helps" noun="mom" nounplural="moms" adjective="nice" extraword="this" level="3" word1="this" word2="taco" word3="draws" word4="tall" word5="buns"/>
+	<sentence pronoun="i" pronounsecond="he" verb="hug" verbsecond="hugs" noun="kid" nounplural="kids" adjective="shy" extraword="that" level="3" word1="that" word2="mask" word3="walks" word4="calm" word5="tacos"/>
+	<sentence pronoun="we" pronounsecond="she" verb="ride" verbsecond="rides" noun="bike" nounplural="bikes" adjective="fine" extraword="a" level="3" word1="they" word2="pea" word3="needs" word4="small" word5="masks"/>
+	<sentence pronoun="they" pronounsecond="it" verb="feed" verbsecond="feeds" noun="seal" nounplural="seals" adjective="jolly" extraword="the" level="3" word1="it" word2="sea" word3="reads" word4="warm" word5="peas"/>
+	<sentence pronoun="i" pronounsecond="he" verb="run" verbsecond="runs" noun="race" nounplural="races" adjective="fast" extraword="my" level="3" word1="" word2="seal" word3="hears" word4="deep" word5="seas"/>
+	<sentence pronoun="we" pronounsecond="she" verb="lock" verbsecond="locks" noun="car" nounplural="cars" adjective="fancy" extraword="her" level="3" word1="" word2="bird" word3="fears" word4="sweet" word5="seals"/>
+	<sentence pronoun="they" pronounsecond="it" verb="hide" verbsecond="hides" noun="key" nounplural="keys" adjective="grey" extraword="his" level="3" word1="" word2="worm" word3="gives" word4="green" word5="birds"/>
+	<sentence pronoun="i" pronounsecond="he" verb="stir" verbsecond="stirs" noun="pot" nounplural="pots" adjective="hot" extraword="your" level="3" word1="" word2="frog" word3="licks" word4="nice" word5="worms"/>
+	<sentence pronoun="we" pronounsecond="she" verb="see" verbsecond="sees" noun="moon" nounplural="moons" adjective="low" extraword="one" level="3" word1="" word2="rock" word3="loves" word4="fine" word5="frogs"/>
+	<sentence pronoun="they" pronounsecond="it" verb="clean" verbsecond="cleans" noun="room" nounplural="rooms" adjective="new" extraword="no" level="3" word1="" word2="cup" word3="holds" word4="yummy" word5="rocks"/>
+	<sentence pronoun="i" pronounsecond="he" verb="sail" verbsecond="sails" noun="sea" nounplural="seas" adjective="calm" extraword="which" level="4" word1="which" word2="star" word3="takes" word4="lazy" word5="cups"/>
+	<sentence pronoun="we" pronounsecond="she" verb="jump" verbsecond="jumps" noun="wall" nounplural="walls" adjective="high" extraword="what" level="4" word1="what" word2="card" word3="makes" word4="crazy" word5="stars"/>
+	<sentence pronoun="they" pronounsecond="it" verb="give" verbsecond="gives" noun="coin" nounplural="coins" adjective="old" extraword="a" level="4" word1="" word2="shirt" word3="cleans" word4="real" word5="cards"/>
+	<sentence pronoun="i" pronounsecond="he" verb="hold" verbsecond="holds" noun="duck" nounplural="ducks" adjective="sad" extraword="the" level="4" word1="" word2="pie" word3="wears" word4="icy" word5="shirts"/>
+	<sentence pronoun="we" pronounsecond="she" verb="walk" verbsecond="walks" noun="dog" nounplural="dogs" adjective="lazy" extraword="my" level="4" word1="" word2="note" word3="stirs" word4="spicy" word5="pies"/>
+	<sentence pronoun="they" pronounsecond="it" verb="dig" verbsecond="digs" noun="hole" nounplural="holes" adjective="deep" extraword="her" level="4" word1="" word2="hole" word3="rides" word4="low" word5="notes"/>
+	<sentence pronoun="i" pronounsecond="he" verb="chew" verbsecond="chews" noun="pea" nounplural="peas" adjective="spicy" extraword="his" level="4" word1="" word2="fork" word3="likes" word4="slow" word5="holes"/>
+	<sentence pronoun="we" pronounsecond="she" verb="spot" verbsecond="spots" noun="bee" nounplural="bees" adjective="wacky" extraword="our" level="4" word1="" word2="moon" word3="opens" word4="cute" word5="forks"/>
+	<sentence pronoun="they" pronounsecond="it" verb="like" verbsecond="likes" noun="cow" nounplural="cows" adjective="silly" extraword="your" level="4" word1="" word2="door" word3="spots" word4="huge" word5="moons"/>
+	<sentence pronoun="i" pronounsecond="he" verb="fold" verbsecond="folds" noun="shirt" nounplural="shirts" adjective="soft" extraword="one" level="4" word1="" word2="duck" word3="grows" word4="blue" word5="doors"/>
+	<sentence pronoun="we" pronounsecond="she" verb="grow" verbsecond="grows" noun="tree" nounplural="trees" adjective="green" extraword="each" level="5" word1="each" word2="cake" word3="plays" word4="tasty" word5="ducks"/>
+	<sentence pronoun="they" pronounsecond="it" verb="cut" verbsecond="cuts" noun="pie" nounplural="pies" adjective="tasty" extraword="any" level="5" word1="any" word2="game" word3="sails" word4="funky" word5="toys"/>
+	<sentence pronoun="i" pronounsecond="he" verb="skip" verbsecond="skips" noun="rock" nounplural="rocks" adjective="cold" extraword="every" level="5" word1="every" word2="race" word3="feeds" word4="grey" word5="games"/>
+	<sentence pronoun="we" pronounsecond="she" verb="sip" verbsecond="sips" noun="cup" nounplural="cups" adjective="cool" extraword="a" level="5" word1="" word2="key" word3="eats" word4="high" word5="races"/>
+	<sentence pronoun="they" pronounsecond="it" verb="lick" verbsecond="licks" noun="lip" nounplural="lips" adjective="icy" extraword="the" level="5" word1="" word2="bike" word3="chews" word4="good" word5="keys"/>
+	<sentence pronoun="i" pronounsecond="he" verb="call" verbsecond="calls" noun="bird" nounplural="birds" adjective="blue" extraword="my" level="5" word1="" word2="book" word3="hides" word4="goofy" word5="bikes"/>
+	<sentence pronoun="we" pronounsecond="she" verb="take" verbsecond="takes" noun="note" nounplural="notes" adjective="good" extraword="her" level="5" word1="" word2="room" word3="rings" word4="cool" word5="books"/>
+	<sentence pronoun="they" pronounsecond="it" verb="open" verbsecond="opens" noun="door" nounplural="doors" adjective="tall" extraword="his" level="5" word1="" word2="coin" word3="cooks" word4="loud" word5="rooms"/>
+	<sentence pronoun="i" pronounsecond="he" verb="love" verbsecond="loves" noun="pig" nounplural="pigs" adjective="pink" extraword="which" level="5" word1="" word2="song" word3="uses" word4="long" word5="coins"/>
+	<sentence pronoun="we" pronounsecond="she" verb="wear" verbsecond="wears" noun="hat" nounplural="hats" adjective="goofy" extraword="what" level="5" word1="" word2="toy" word3="buys" word4="shy" word5="songs"/>
+	</sentences> 

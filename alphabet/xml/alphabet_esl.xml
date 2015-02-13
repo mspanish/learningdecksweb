@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<letters>
+	<letter id="a" word="ant"/>
+	<letter id="b" word="bee"/>
+	<letter id="c" word="cow"/>
+	<letter id="d" word="dog"/>
+	<letter id="e" word="egg"/>
+	<letter id="f" word="frog"/>
+	<letter id="g" word="goat"/>
+	<letter id="h" word="hat"/>
+	<letter id="i" word="ice"/>
+	<letter id="j" word="jet"/>
+	<letter id="k" word="key"/>
+	<letter id="l" word="lips"/>
+	<letter id="m" word="mask"/>
+	<letter id="n" word="note"/>
+	<letter id="o" word="owl"/>
+	<letter id="p" word="pig"/>
+	<letter id="q" word="queen"/>
+	<letter id="r" word="rat"/>
+	<letter id="s" word="sun"/>
+	<letter id="t" word="taco"/>
+	<letter id="u" word="ulu"/>
+	<letter id="v" word="vase"/>
+	<letter id="w" word="worm"/>
+	<letter id="x" word="xray"/>
+	<letter id="y" word="yoyo"/>
+	<letter id="z" word="zebra"/>
+</letters>

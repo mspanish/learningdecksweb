@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<navigation>	
+	<menu thumb="thumbnails/spanish1.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/29400438619" urlAmazon="http://amzn.com/B0061QF3YA" urlApple="http://itunes.apple.com/us/app/instaspanish-kids-lessons/id488540338?mt=8"/> 
+	
+	<menu thumb="thumbnails/zebra.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043878236" urlAmazon="http://amzn.com/B006YW86AY" urlApple="http://itunes.apple.com/us/app/dress-the-zebra/id493818607?mt=8"/> 
+	
+	<menu thumb="thumbnails/spanish2.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043882776" urlAmazon="http://amzn.com/B0077QWFPI" urlApple=""/> 
+	
+	<menu thumb="thumbnails/phonics1.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043873408" urlAmazon="http://amzn.com/B006P742VA" urlApple="http://itunes.apple.com/us/app/wordstudio-words-letters-phonics/id490515543?mt=8"/> 	
+	
+	<menu thumb="thumbnails/dino.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043875471" urlAmazon="http://amzn.com/B006QCQ2R6" urlApple="http://itunes.apple.com/us/app/dress-the-dinosaur/id491118590?mt=8"/> 
+	
+	<menu thumb="thumbnails/pig.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043875471" urlAmazon="http://amzn.com/B006QCQ2R6" urlApple="http://itunes.apple.com/us/app/dress-the-dinosaur/id491118590?mt=8"/>	
+	
+	<menu thumb="thumbnails/cat.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/29400438732" urlAmazon="http://amzn.com/B006P313TI" urlApple="http://itunes.apple.com/us/app/dress-the-cat/id488630371?ls=1&mt=8"/> 
+	
+	<menu thumb="thumbnails/pirategirl.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/294004388695" urlAmazon="http://amzn.com/B007EGCR0O" urlApple="http://itunes.apple.com/us/app/dress-the-cat/id488630371?ls=1&mt=8"/> 
+	
+	<menu thumb="thumbnails/pirateboy.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043886781" urlAmazon="" urlApple="http://itunes.apple.com/us/app/dress-the-pirate-boy/id505073148?ls=1&mt=8"/>	
+	
+	<menu thumb="thumbnails/animals.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043879806" urlAmazon="http://amzn.com/B0070PMM9A" urlApple="http://itunes.apple.com/us/app/dress-the-animals/id493840612?ls=1&mt=8"/> 
+	
+	<menu thumb="thumbnails/dog.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/294004387701" urlAmazon="http://amzn.com/B006SJPJCQ" urlApple="http://itunes.apple.com/us/app/dress-the-dog/id493396419?ls=1&mt=8"/> 
+	
+	<menu thumb="thumbnails/bear.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/" urlAmazon="http://amzn.com/B007IX5WUA" urlApple="http://itunes.apple.com/us/app/dress-the-dog/id493396419?ls=1&mt=8"/>	
+	
+	<menu thumb="thumbnails/shark.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043888174" urlAmazon="" urlApple=""/>
+
+	<menu thumb="thumbnails/turtle.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043885883" urlAmazon="http://amzn.com/B007EG2XEY" urlApple="http://itunes.apple.com/us/app/dress-the-dog/id493396419?ls=1&mt=8"/>	
+	
+	<menu thumb="thumbnails/octopus.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043886590" urlAmazon="http://amzn.com/B007D5B93M" urlApple="http://itunes.apple.com/us/app/dress-the-dog/id493396419?ls=1&mt=8"/>
+	
+	<menu thumb="thumbnails/monster.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043887290" urlAmazon="" urlApple="http://itunes.apple.com/us/app/create-a-monster-storyboard/id505869132?mt=8"/>
+	
+	<menu thumb="thumbnails/ghost.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043888334" urlAmazon="http://amzn.com/B007GFTFOE" urlApple="http://itunes.apple.com/us/app/create-a-ghost-storyboard/id506772901?ls=1&mt=8" />
+	
+	<menu thumb="thumbnails/tiger.png" urlNook="https://nookdeveloper.barnesandnoble.com/tools/dev/linkManager/2940043879530" urlAmazon="http://amzn.com/B00702UZT2" urlApple=""/>
+
+	</navigation>

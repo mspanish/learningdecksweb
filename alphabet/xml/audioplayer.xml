@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<player>
+
+	<list>
+	               <item>
+			<url><![CDATA[sound/happykids.mp3]]></url>
+ 			<name><![CDATA[Happy Kids]]></name>
+		</item>
+               
+                <item>
+			<url><![CDATA[sound/harp.mp3]]></url>
+ 			<name><![CDATA[Jordan's Holy Water]]></name>
+		</item>
+		
+		               <item>
+			<url><![CDATA[sound/marimba.mp3]]></url>
+ 			<name><![CDATA[Playful Marimba]]></name>
+		</item>
+		
+		 <item>
+			<url><![CDATA[sound/choir.mp3]]></url>
+ 			<name><![CDATA[Everlasting God]]></name>
+		</item>
+ 
+
+	</list>
+</player>
