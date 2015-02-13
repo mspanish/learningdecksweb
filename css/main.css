@@ -469,3 +469,6 @@ h1, h2, h3, h4, h5 {
 
 .20below {
   margin-top: 20px; }
+
+.global .masthead .information {
+  line-height: 2; }
