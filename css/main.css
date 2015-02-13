@@ -466,3 +466,6 @@ h1, h2, h3, h4, h5 {
 
 .20above {
   margin-bottom: 20px; }
+
+.20below {
+  margin-top: 20px; }
