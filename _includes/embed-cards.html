@@ -6,14 +6,14 @@
   {% assign count = site.recent_items %}
 {% endif %}
 
-{% for embed in site.data.embeds limit:count %}
+{% for embed in site.data.spanish limit:count %}
   <div class="column">
     <div class="ui fluid card">
       <div class="dimmable image">
         <div class="ui inverted dimmer">
           <div class="content">
             <div class="center">
-              <a class="ui primary button" href="{{ embed.usecase }}">View Example</a>
+              <a class="ui primary button" target="{{embed.target}}" href="{{ embed.usecase }}">Open App</a>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
           <i class="expand icon embed-features" data-content="Mobile Responsive" data-position="top left"></i>
           {% endif %}
           {% if embed.jekyll_friendly %}
-          <i class="github icon embed-features" data-content="GitHub Friendly" data-position="top left"></i>
+          <i class="github icon embed-features" data-content="GitHub Repo" data-position="top left"></i>
           {% endif %}
           {% if embed.scope == 'Site' %}
           <i class="globe icon embed-features" data-content="Site Configurable" data-position="top left"></i>
@@ -51,7 +51,6 @@
           {% endif %}
         <div class="right floated created">
           <a href="{{ embed.docs }}"><i class="question icon embed-features" data-content="Learn More" data-position="top right"></i></a> | 
-          <a href="{{ embed.create }}"><i class="wizard icon embed-features" data-content="Create Embed" data-position="top right"></i></a>
         </div>
       </div>
   

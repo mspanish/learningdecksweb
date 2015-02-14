@@ -1,0 +1,41 @@
+  # Official name of embed
+- name: 101 Spanish Verbs
+  # Description of embed
+  about: Interactive ebook teaching the 101 most important verbs in 6 tenses, with hints and memory techniques to remember verb patterns.
+  # Social, News, Doc, RSS, Video, Photo, Graphic, Map
+  group: Flash    
+  # Image used in card view
+  image: /img/embed/101spanishverbs.jpg
+  # Icon used in table view. Refer http://semantic-ui.com/elements/icon.html
+  icon: book           
+  # Site, Layout, Post configurable. None, if per use case.
+  scope: None     
+  # true/false = Is the embed UI responsive
+  responsive: false
+  # Does the embed work well on Jekyll and Github Pages
+  jekyll_friendly: true
+  # Rating based on popularity, features
+  rating: 5                 
+  # Link to to create embed
+  create: https://twitter.com/              
+  # Link to embed docs
+  docs: http://mspanish.github.io/101spanishverbs/              
+  # URL to usecase
+  usecase: http://mspanish.github.io/101spanishverbs/
+  # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
+  target: _blank
+
+- name: Musical Spanish Interactive
+  about: Learn Spanish through 10 fun pop songs in our interactive ebook with music videos and learning activities.
+  group: Flash
+  image: /img/embed/musicalspanish.jpg
+  icon: music
+  scope: none
+  responsive: false
+  jekyll_friendly: true
+  rating: 5
+  create:            
+  docs: http://mspanish.github.io/musicalspanish/          
+  usecase: http://mspanish.github.io/musicalspanish/
+  # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
+  target: _blank
