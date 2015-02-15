@@ -1,9 +1,24 @@
+- name: Musical Spanish Videos
+  about: Learn Spanish through 10 fun pop songs in our music videos and learning activities.
+  group: age 4+
+  image: /img/embed/musicalspanishvideos.jpg
+  icon: music
+  scope: none
+  responsive: false
+  jekyll_friendly: true
+  rating: 5
+  create:            
+  docs: http://mspanish.github.io/musicalspanishvideos/          
+  usecase: http://mspanish.github.io/musicalspanishvideos/
+  # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
+  target: _blank
+
   # Official name of embed
 - name: 101 Spanish Verbs
   # Description of embed
   about: Interactive ebook teaching the 101 most important verbs in 6 tenses, with hints and memory techniques to remember verb patterns.
   # Social, News, Doc, RSS, Video, Photo, Graphic, Map
-  group: Flash    
+  group: age 10+ 
   # Image used in card view
   image: /img/embed/101spanishverbs.jpg
   # Icon used in table view. Refer http://semantic-ui.com/elements/icon.html
@@ -27,7 +42,7 @@
 
 - name: Musical Spanish Interactive
   about: Learn Spanish through 10 fun pop songs in our interactive ebook with music videos and learning activities.
-  group: Flash
+  group: age 8+
   image: /img/embed/musicalspanish.jpg
   icon: music
   scope: none
