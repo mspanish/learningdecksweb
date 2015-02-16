@@ -5,7 +5,7 @@
 
       <a class="item" href="{{ post.url }}">
 	  <div class="right floated"><small>{{ post.date | date: "%b %-d, %Y" }}</small></div>
-        <div class="recent-posts-title">{{ post.title }}</div>
+        <div class="recent-posts-title bigTitle">{{ post.title }}</div>
         {% if post.image %}
         <div class="thumb-img">
           <img class="ui rounded image" src="{{ post.image }}" alt="{{ post.title }}">
