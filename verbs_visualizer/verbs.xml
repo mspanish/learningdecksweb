@@ -1,0 +1,70 @@
+ <?xml version="1.0" ?> 
+
+<images name="Verb Visualizer">
+
+
+  <image name="abrir" english="to open" file="icons/abririco.swf" /> 
+  <image name="andar" english="to walk" file="icons/andarico.swf" /> 
+  <image name="ayudar" english="to help" file="icons/ayudarico.swf" /> 
+  <image name="bailar" english="to dance" file="icons/bailarico.swf" /> 
+  <image name="bajar" english="to go down" file="icons/bajarico.swf" /> 
+
+  <image name="cantar" english="to sing" file="icons/cantarico.swf" /> 
+  <image name="cerrar" english="to close" file="icons/cerrarico.swf" /> 
+  <image name="comenzar" english="to begin" file="icons/comenzarico.swf" /> 
+  <image name="comer" english="to eat" file="icons/comerico.swf" /> 
+  <image name="comprar" english="to buy" file="icons/comprarico.swf" /> 
+  <image name="comprender" english="to understand" file="icons/comprenderico.swf" /> 
+  <image name="conocer" english="to meet or know" file="icons/conocerico.swf" /> 
+  <image name="correr" english="to run" file="icons/correrico.swf" /> 
+  <image name="dar" english="to give" file="icons/darico.swf" /> 
+  <image name="deber" english="to owe (also means should)" file="icons/deberico.swf" /> 
+  <image name="decir" english="to say" file="icons/decirico.swf" /> 
+
+  
+  <image name="desenvolver" english="to unwrap" file="icons/desenvolverico.swf" /> 
+  <image name="dormir" english="to sleep" file="icons/dormirico.swf" /> 
+  <image name="enamorar" english="to fall in love" file="icons/enamorarico.swf" /> 
+  <image name="escribir" english="to write" file="icons/escribirico.swf" /> 
+  <image name="escuchar" english="to listen" file="icons/escucharico.swf" /> 
+  <image name="esperar" english="to wait" file="icons/esperarico.swf" /> 
+  <image name="estar" english="to be (temporary)" file="icons/estarico.swf" /> 
+  <image name="girar" english="to turn" file="icons/girarico.swf" /> 
+  <image name="hablar" english="to speak" file="icons/hablarico.swf" /> 
+  <image name="hacer" english="to do/make" file="icons/hacerico.swf" /> 
+  <image name="ir" english="to go" file="icons/irico.swf" /> 
+  <image name="llamar" english="to call" file="icons/llamarico.swf" /> 
+  <image name="llegar" english="to arrive" file="icons/llegarico.swf" /> 
+  <image name="llevar" english="to take" file="icons/llevarico.swf" /> 
+  <image name="manejar" english="to drive" file="icons/manejarico.swf" /> 
+  <image name="mirar" english="to look" file="icons/mirarico.swf" /> 
+  <image name="necesitar" english="to need" file="icons/necesitarico.swf" /> 
+  <image name="oir" english="to hear" file="icons/oirico.swf" /> 
+  <image name="pagar" english="to pay" file="icons/pagarico.swf" /> 
+  <image name="parar" english="to stop" file="icons/pararico.swf" /> 
+  
+  <image name="pasar" english="to pass" file="icons/pasarico.swf" /> 
+  <image name="poder" english="to be able to" file="icons/poderico.swf" /> 
+  <image name="poner" english="to put" file="icons/ponerico.swf" /> 
+  <image name="quedar" english="to stay" file="icons/quedarico.swf" /> 
+  <image name="querer" english="to want" file="icons/quererico.swf" /> 
+  <image name="regresar" english="to return" file="icons/regresarico.swf" /> 
+  <image name="saber" english="to know" file="icons/saberico.swf" /> 
+  <image name="sacar" english="to take out" file="icons/sacarico.swf" /> 
+  <image name="salir" english="to leave" file="icons/dejarico.swf" /> 
+  <image name="saludar" english="to greet" file="icons/buscarico.swf" /> 
+  <image name="seguir" english="to follow" file="icons/seguirico.swf" /> 
+  <image name="sentir" english="to feel" file="icons/sentirico.swf" /> 
+  <image name="ser" english="to be (permanent)" file="icons/serico.swf" /> 
+  <image name="sorprender" english="to surprise" file="icons/sorprendarico.swf" /> 
+  <image name="subir" english="to rise or go up" file="icons/subirico.swf" /> 
+  <image name="tener" english="to have" file="icons/tenerico.swf" /> 
+  <image name="terminar" english="to finish" file="icons/terminarico.swf" /> 
+  <image name="tomar" english="to take" file="icons/tomarico.swf" /> 
+  <image name="traer" english="to bring" file="icons/traerico.swf" /> 
+  <image name="venir" english="to come" file="icons/venirico.swf" /> 
+  <image name="ver" english="to see" file="icons/verico.swf" /> 
+  <image name="vivir" english="to live" file="icons/vivirico.swf" /> 
+  <image name="voltear" english="to turn around" file="icons/volverico.swf" /> 
+
+</images>

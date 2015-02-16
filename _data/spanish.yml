@@ -40,6 +40,33 @@
   # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
   target: _blank
 
+  # Official name of embed
+- name: Spanish Verb Visualizer
+  # Description of embed
+  about: Visualize 67 of the key Spanish Verbs with short animated clips
+    # Social, News, Doc, RSS, Video, Photo, Graphic, Map
+  group: age 6+
+  # Image used in card view
+  image: /img/embed/verbs_visualizer.jpg
+  # Icon used in table view. Refer http://semantic-ui.com/elements/icon.html
+  icon: movie           
+  # Site, Layout, Post configurable. None, if per use case.
+  scope: None     
+  # true/false = Is the embed UI responsive
+  responsive: false
+  # Does the embed work well on Jekyll and Github Pages
+  jekyll_friendly: false
+  # Rating based on popularity, features
+  rating: 5                 
+  # Link to to create embed
+  create: https://twitter.com/              
+  # Link to embed docs
+  docs: /verbs_visualizer           
+  # URL to usecase
+  usecase: /verbs_visualizer
+  # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
+  target: _self
+
   
   # Official name of embed
 - name: 101 Spanish Verbs
