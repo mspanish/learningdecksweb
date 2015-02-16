@@ -13,6 +13,34 @@
   # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
   target: _blank
 
+    # Official name of embed
+- name: Learn Spanish Verbs Fast
+  # Description of embed
+  about: Interactive audio ebook teaching 50 of the most important verbs in 6 tenses, with hints and memory techniques to remember verb patterns.
+  # Social, News, Doc, RSS, Video, Photo, Graphic, Map
+  group: age 10+ 
+  # Image used in card view
+  image: /img/embed/spanishverbsfast.jpg
+  # Icon used in table view. Refer http://semantic-ui.com/elements/icon.html
+  icon: book           
+  # Site, Layout, Post configurable. None, if per use case.
+  scope: None     
+  # true/false = Is the embed UI responsive
+  responsive: false
+  # Does the embed work well on Jekyll and Github Pages
+  jekyll_friendly: true
+  # Rating based on popularity, features
+  rating: 5                 
+  # Link to to create embed
+  create: https://twitter.com/              
+  # Link to embed docs
+  docs: http://mspanish.github.io/spanishverbsfast/              
+  # URL to usecase
+  usecase: http://mspanish.github.io/spanishverbsfast/
+  # if this is a url to OUTSIDE of learningdecks, open with target="_blank"
+  target: _blank
+
+  
   # Official name of embed
 - name: 101 Spanish Verbs
   # Description of embed
